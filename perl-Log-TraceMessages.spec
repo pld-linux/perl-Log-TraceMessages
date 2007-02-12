@@ -6,7 +6,7 @@
 %define	pdir	Log
 %define	pnam	TraceMessages
 Summary:	Log::TraceMessages - Perl extension for trace messages used in debugging
-Summary(pl):	Log::TraceMessages - rozszerzenie Perla do ∂ledzenia komunikatÛw
+Summary(pl.UTF-8):   Log::TraceMessages - rozszerzenie Perla do ≈õledzenia komunikat√≥w
 Name:		perl-Log-TraceMessages
 Version:	1.4
 Release:	1
@@ -27,11 +27,11 @@ code than just calling print(). It provides an easy way to turn trace
 on and off for particular sections of code without having to comment
 out bits of source.
 
-%description -l pl
-Ten modu≥ to nieco lepszy sposÛb umieszczania instrukcji do ∂ledzenia
-we w≥asnym kodzie niø zwyk≥e wywo≥ywanie print(). UdostÍpnia on ≥atwy
-sposÛb w≥±czania i wy≥±czania ∂ledzenia dla rÛønych sekcji kodu bez
-potrzeby zamiany na komentarze kawa≥kÛw kodu ºrÛd≥owego.
+%description -l pl.UTF-8
+Ten modu≈Ç to nieco lepszy spos√≥b umieszczania instrukcji do ≈õledzenia
+we w≈Çasnym kodzie ni≈º zwyk≈Çe wywo≈Çywanie print(). Udostƒôpnia on ≈Çatwy
+spos√≥b w≈ÇƒÖczania i wy≈ÇƒÖczania ≈õledzenia dla r√≥≈ºnych sekcji kodu bez
+potrzeby zamiany na komentarze kawa≈Çk√≥w kodu ≈∫r√≥d≈Çowego.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
