@@ -6,7 +6,7 @@
 %define	pdir	Log
 %define	pnam	TraceMessages
 Summary:	Log::TraceMessages - Perl extension for trace messages used in debugging
-Summary(pl.UTF-8):   Log::TraceMessages - rozszerzenie Perla do śledzenia komunikatów
+Summary(pl.UTF-8):	Log::TraceMessages - rozszerzenie Perla do śledzenia komunikatów
 Name:		perl-Log-TraceMessages
 Version:	1.4
 Release:	1
