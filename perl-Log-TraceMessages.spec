@@ -8,7 +8,7 @@ Summary:	Log::TraceMessages - Perl extension for trace messages used in debuggin
 Summary(pl.UTF-8):	Log::TraceMessages - rozszerzenie Perla do śledzenia komunikatów
 Name:		perl-Log-TraceMessages
 Version:	1.4
-Release:	2
+Release:	3
 # same as perl (REMOVE THIS LINE IF NOT TRUE)
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
